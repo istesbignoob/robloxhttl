@@ -1,1 +1,1 @@
-print("readn")
+Go
